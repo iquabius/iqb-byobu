@@ -16,3 +16,5 @@ bind -n M-j select-pane -L
 bind -n M-k select-pane -D
 bind -n M-l select-pane -R
 
+# Scroll back mode
+# https://superuser.com/questions/209437/how-do-i-scroll-in-tmux#209608
